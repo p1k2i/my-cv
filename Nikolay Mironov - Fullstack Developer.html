@@ -32,12 +32,13 @@
     font-size: 14px;
     margin-bottom: 5px;
   }
-  .summary, .technologies, .experience, .languages {
+  .summary, .technologies, .experience, .languages, .courses, .academic {
     margin-bottom: 25px;
   }
   .technologies table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 5px 0;
   }
   .technologies td {
     padding: 3px 0;
@@ -80,10 +81,20 @@
   }
   .languages table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 5px 0;
   }
   .languages td {
     padding: 3px 0;
+  }
+  .courses table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 5px 0;
+  }
+  .courses td {
+    padding: 3px 0;
+    vertical-align: top;
   }
   .bar {
     display: inline-block;
@@ -203,6 +214,27 @@
       <td>Portuguese (Basic)</td>
       <td><div class="bar basic"></div></td>
     </tr>
+  </table>
+</div>
+
+<hr>
+
+<div class="academic">
+  <div class="section-title">ACADEMIC BACKGROUND</div>
+  <p>Universidade UBA (University of Buenos Aires) – Basic materials<br>2018-2019</p>
+  <p>Universidade UTN (National Technological University) – Basic materials<br>2019-2020</p>
+</div>
+
+<hr>
+
+<div class="courses">
+  <div class="section-title">COURSES</div>
+  <table>
+    <tr><td>Title of Certification</td><td>Institution</td><td>Year</td></tr>
+    <tr><td>Modeling and printing 3D</td><td>SMATA</td><td>2017</td></tr>
+    <tr><td>Repair and maintenance PC</td><td>SMATA</td><td>2017</td></tr>
+    <tr><td>Electrónica Digital Básica</td><td>LEYDEN</td><td>2016</td></tr>
+    <tr><td>Programming PascalABC.NET</td><td>Stepik</td><td>2013</td></tr>
   </table>
 </div>
 
