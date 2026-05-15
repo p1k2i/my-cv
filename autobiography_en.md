@@ -17,6 +17,10 @@ I am a Fullstack Software Engineer and IT specialist with over 6 years of hands-
 - 11/2022 – Present — Business Growth Partner & IT Specialist, Self-Employed (Portugal, tipartner.pt)
   - Advise small and medium businesses, perform free initial analyses, and deliver custom web applications, dashboards, automation tools, and AI-powered features.
   - Manage projects end-to-end, from requirements gathering to production support, and work with clients across the EU.
+  - Develop custom web applications and business solutions for EU clients using AI-assisted development tools for rapid prototyping
+  - Implement full-stack solutions (front-end, back-end, databases) based on project requirements
+  - Use ChatGPT, GitHub Copilot, and Claude to accelerate development while maintaining code quality and best practices
+  - Manage projects end-to-end, from requirements gathering to production support
 
 ## Early Life, Education and Pre-IT Experience
 
