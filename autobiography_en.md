@@ -80,12 +80,21 @@ I see myself as a developer who builds solutions with a strong understanding of 
 - Spanish — Advanced
 - Portuguese — Basic (A2)
 
-## Professional Development and Certifications (from CV)
+## Professional Development and Certifications
 
-- Portuguese A2 — Centro Qualifica (Portugal), 2025
-- English B1 — Aveiro University (Portugal), 2023
-- Strengthening Entrepreneurship — PIE (Argentina), 2018
-- Various courses in networking, PC repair, 3D modeling, and programming (2013–2017)
+My learning path has always been a combination of self-study, practical experience, and structured courses. In addition to working in IT, I studied and completed a number of relevant programs that strengthened both my technical and business foundations.
+
+- 2013 — Programming in Pascal — Dialog
+- 2016 — Basic Digital Electronics — LEYDEN
+- 2016 — Introduction to Entrepreneurship — INICIA
+- 2017 — 3D Modeling and Printing — SMATA
+- 2017 — Network Technologies — SMATA
+- 2017 — PC Repair and Maintenance — SMATA
+- 2017 — Spanish B1 — Idiomas UBA
+- 2018 — Strengthening Entrepreneurship — PIE
+- 2023 — English B1 — Aveiro University
+- 2025 — Portuguese A2 — Centro Qualifica
+- 2026 — Managing and leading teams — IEFP
 
 ## Achievements and Approach
 
